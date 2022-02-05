@@ -29,11 +29,48 @@ Grading
 
 Grading for the course is as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Participation | 40% |
-| One Case Write-up: This is an individual assignment. Students select the case they want to write up. | 20% |
-| Team Project Write-up: This is a group assignment with the standard expectations regarding substantial participation by each student. | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+One Case Write-up: This is an individual assignment. Students select the case they want to write up.
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team Project Write-up: This is a group assignment with the standard expectations regarding substantial participation by each student.
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Student Team Presentations
 --------------------------
