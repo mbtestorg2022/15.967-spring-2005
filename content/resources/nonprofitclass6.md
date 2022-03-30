@@ -5,6 +5,7 @@ description: Lecture presentation exploring the week's case study on the Catholi
   process.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-967-managing-and-volunteering-in-the-non-profit-sector-spring-2005/52a190726b47b0769357d97c6f91767d_nonprofitclass6.pdf
 file_type: application/pdf
+parent_uid: 1a7120c6-2fd4-fdbc-ba6f-219a57f98f87
 resourcetype: Document
 title: nonprofitclass6.pdf
 uid: 52a19072-6b47-b076-9357-d97c6f91767d
